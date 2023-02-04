@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<person>
-<name>Elizabeth</name>
+<new>
+<first_name>Elizabeth</first_name>
+<last_name>Volkotrubova</last_name>
 <age>23</age>
-<father>
-<name>Kostya</name>
-<age>52</age>
-</father>
-<dog>
-<name>Jessi</name>
-<age>12</age>
-</dog>
-</person>
+<amount_of_pets>1</amount_of_pets>
+<wish_salary>500</wish_salary>
+</new>
